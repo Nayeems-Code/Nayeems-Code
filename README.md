@@ -1,4 +1,4 @@
-# The Nur-turing Code Gardener 🧑‍💻
+# Nayeems-Code
 ---
 Hi, I'm Nur, a passionate frontend developer with a focus on creating beautiful and functional user interfaces. I love exploring new technologies and contributing to the open-source community.
 
